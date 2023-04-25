@@ -18,3 +18,11 @@ Let’s see this in action with a typical example of a MapReduce application: wo
 counting.
 
 ![Screenshot 2023-04-25 130715](https://user-images.githubusercontent.com/95910633/234207240-20a47392-1c00-4339-a578-988d06fcc271.png)
+
+Obtained Output:
+
+![Screenshot 2023-04-25 123252](https://user-images.githubusercontent.com/95910633/234207563-36fc3c88-01d0-4a9d-9e54-0aa609ca1530.png)
+
+![Screenshot 2023-04-25 124158](https://user-images.githubusercontent.com/95910633/234207600-e95c38b0-a86f-440e-9d6c-4fb241146dc9.png)
+
+![Screenshot 2023-04-25 124247](https://user-images.githubusercontent.com/95910633/234207628-6ef2658b-b621-4b73-b3db-e5de282e9c19.png)
