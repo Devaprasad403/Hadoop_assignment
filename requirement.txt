@@ -1,0 +1,15 @@
+The above code uses the following built-in Python libraries:
+
+--> threading: This library provides a way to create and manage threads for parallel processing.
+
+--> open: This is a built-in function that allows us to open a file and read its contents.
+
+--> split: This is a built-in string method that allows us to split a string into a list of substrings based on a delimiter.
+
+--> sum: This is a built-in function that allows us to calculate the sum of a list of numbers.
+
+--> range: This is a built-in function that allows us to generate a sequence of numbers.
+
+--> items: This is a built-in dictionary method that allows us to get a list of key-value pairs in a dictionary.
+
+--> print: This is a built-in function that allows us to print output to the console.
