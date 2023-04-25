@@ -1,4 +1,4 @@
-The above code uses the following built-in Python libraries:
+The Libraries used in the code are:
 
 --> threading: This library provides a way to create and manage threads for parallel processing.
 
